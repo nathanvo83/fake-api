@@ -1,0 +1,13 @@
+{
+  "todoes": [
+    { "id": 1, "name": "Task 01", "status": "pending", "created_date": "2019-12-30T04:44:09.692Z" },
+    { "id": 2, "name": "Task 02", "status": "completed", "created_date": "2019-12-30T04:44:09.692Z" },
+    { "id": 3, "name": "Task 03", "status": "ongoing", "created_date": "2019-12-30T04:44:09.692Z" },
+    
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  
+}
